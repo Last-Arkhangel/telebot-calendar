@@ -71,4 +71,5 @@ def callback_inline(call: CallbackQuery):
 ```
 
 ## Demo
-![](https://github.com/FlymeDllVa/telebot-calendar/blob/master/demo.gif width="270")
+![]()
+<img src="https://github.com/FlymeDllVa/telebot-calendar/blob/master/demo.gif" width="270">
